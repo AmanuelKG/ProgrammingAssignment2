@@ -1,5 +1,5 @@
 ## Below are two functions that are used to create a special object 
-##that stores a a matrix of numbers and cache's its mean.
+##that stores a a matrix of numbers and cache's its inverse.
 
 
 ## The first function, makeCacheMatrix creates a special "Matrix"
